@@ -57,5 +57,8 @@ Each model's performance is displayed in the terminal when the prediction is mad
 The model training process is handled in main.py, where we load the dataset, preprocess the data, and train the model using various algorithms.
 The trained model and preprocessing steps are saved using joblib into .pkl files, which are later loaded in index.py for predictions in the Streamlit app.
 
+# Snapshot
+![Model 1](https://github.com/user-attachments/assets/67f0f87e-351a-4801-9e6d-b2283089c1d2)
+
 # Contributions
 Feel free to fork this repository and submit pull requests if you find improvements or bug fixes.
