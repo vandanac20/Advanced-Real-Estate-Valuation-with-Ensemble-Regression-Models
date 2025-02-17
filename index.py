@@ -42,4 +42,4 @@ if st.button("Predict Price"):
     # Display the prediction result
     st.success(f"Predicted Price: ₹{prediction:,.2f}")
 
-# Run with: streamlit run index.py
+
